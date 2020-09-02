@@ -1,4 +1,4 @@
-# IDS705: Machine-Learning
+# Machine-Learning
 
 Repository for the Machine Learning core course of MIDS at Duke University. It contains the following elements:
 - Four Assignments covering a review of Machine Learning fundamentals and algorithms.
